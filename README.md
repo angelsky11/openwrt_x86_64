@@ -7,3 +7,10 @@
 默认ip地址192.168.100.1
 
 调整系统空间为800m
+
+
+https://github.com/coolsnowwolf/lede
+
+https://github.com/kenzok8/openwrt-packages
+
+https://github.com/jerrykuku/openwrt-package
